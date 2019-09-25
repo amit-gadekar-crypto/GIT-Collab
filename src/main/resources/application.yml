@@ -1,0 +1,5 @@
+api:
+  provider:
+    url:
+      gitHub: https://api.github.com
+      gitLab: https://gitlab.com/api/v4
